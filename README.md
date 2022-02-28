@@ -2,8 +2,8 @@
 ## I'm Jeroen van Osta
 
 Microsoft Certified Trainer
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning (Azure) DevOps, GitHub and Visual Studio Code
+- I’m interested in Cloud Computing
+- I’m currently learning (Azure) DevOps, GitHub and Visual Studio Code
 
 
 ### I teach tech, create courses and present webinars on:
